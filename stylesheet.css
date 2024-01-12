@@ -1,0 +1,51 @@
+ 
+	{
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+		background-color:lightblue;
+    }
+
+    .header {
+        background-color: lightblue;
+        padding: 30px;
+        text-align: center;
+    }
+
+    .topnav {
+        overflow: hidden;
+        background-color: red;
+    }
+
+    .topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+     }
+
+    {
+        position: relative;
+        width: 40%;
+    }
+		
+	
+   .p{
+      postion:60%;
+      align:center
+     }
+	 
+    .h1{
+    color:red;
+	text-shadow: 2px 2px;
+    }
+    
+	.img {
+     border: 5px solid #555;
+     }
+				
+				
