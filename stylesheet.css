@@ -36,7 +36,7 @@ box-sizing: border-box;
 	
    .p{
       postion:60%;
-      align:center;
+      align: center;
      }
 	 
     .h1{
@@ -44,7 +44,7 @@ box-sizing: border-box;
 	text-shadow: 2px 2px;
     }
     
-	.img {
+    .img {
      border: 5px solid #555;
      }
 				
