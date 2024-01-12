@@ -1,16 +1,16 @@
  
-	{
-        box-sizing: border-box;
-    }
+{
+box-sizing: border-box;
+}
 
     body {
         margin: 0;
-		background-color:lightblue;
+	background-color:lightblue;
     }
 
     .header {
-        background-color: lightblue;
-        padding: 30px;
+        background-color:lightblue;
+        padding: 30;
         text-align: center;
     }
 
@@ -36,11 +36,11 @@
 	
    .p{
       postion:60%;
-      align:center
+      align:center;
      }
 	 
     .h1{
-    color:red;
+        color: red;
 	text-shadow: 2px 2px;
     }
     
